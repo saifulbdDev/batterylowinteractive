@@ -1,0 +1,5 @@
+{
+    "ENV": "development",
+    "BASE_URL": "https://rest.entitysport.com/v2/",
+    "BASE_TOKEN": "437214169d9be2a73e91d22f76f68b52"
+  }
